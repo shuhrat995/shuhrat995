@@ -1,10 +1,7 @@
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Frontend+Developer;React+Enthusiast;Consistent+Learner" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  
   <img src="https://api.visitorbadge.io/api/visitors?path=ShuhratMadaminov&label=Profile%20Views&countColor=%23263238&labelStyle=upper" alt="Visitors" />
-</div>
+
 
 # Assalomu alaykum! | Hi There! 👋
 
