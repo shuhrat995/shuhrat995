@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00BFFF&center=true&vCenter=true&lines=Assalomu+alaykum!;I'm+Shuhrat+Madaminov;Frontend+Developer;React+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00BFFF&center=true&vCenter=true&lines=Assalomu+alaykum!;I'm+Shuhrat+Madaminov;Frontend+Developer" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://api.visitorbadge.io/api/visitors?path=ShuhratMadaminov&label=Profile%20Views&countColor=%23263238&labelStyle=upper" alt="Visitors" />
@@ -10,11 +10,7 @@
 
 ## 👋 Men haqimda | About Me
 
-Men **Shuhrat Madaminov**, Xorazm viloyati, Xonqa tumanida istiqomat qilaman. Hozirda **Xonqa IT Park** talabasiman (2024-2026). Frontend yo'nalishida **Junior+** darajasidagi 2 yillik amaliy tajribaga egaman.
-
-*   🚀 **Fokus:** React.js ekotizimi va Mobile-first dizayn.
-*   🤝 **Jamoa:** 2 frontend va 1 backenddan iborat professional jamoada ishlash tajribasiga egaman.
-*   🎨 **Sifat:** Figma dizaynlarini pixel-perfect darajasida kodga o'girishni yoqtiraman.
+Men **Shuhrat Madaminov**, Xorazm viloyati, Xonqa tumanida istiqomat qilaman. **Xonqa IT Park** talabasiman va uni muvaffaqiyatli tamomladim (2024-2026). Shu munosabat bilan rasmiy [Sertifikatni ko'rish](https://axvsertifikat.uz/uploads/diplomas/AA0364.pdf) havolasi orqali tanishishingiz mumkin. Frontend yo'nalishida amaliy tajribaga egaman va har kuni yangi bilimlar o'rganib boraman.
 
 ---
 
@@ -24,22 +20,22 @@ Men **Shuhrat Madaminov**, Xorazm viloyati, Xonqa tumanida istiqomat qilaman. Ho
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Ecosystem & Tools
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🏗️ Tanlangan Loyihalar | Featured Projects
 
-*   📖 **LexUz (Lexora):** 14,000+ so'zli lug'at ilovasi (80,000 gacha kengaytirish rejalashtirilgan).
-*   ✅ **TaskFlow:** Professional CRUD va backend integratsiyasiga ega vazifalar boshqaruvchisi.
-*   🏫 **School Platform:** Yangiliklar va bitiruvchilar statistikasi uchun maxsus admin panelli veb-sayt.
-*   🎬 **Dune Movie App:** TMDB API asosida yaratilgan, xavfsizlik va dark-mode dizayniga urg'u berilgan ilova.
+* 📖 **LexUz (Lexora):** 14,000+ so'zli lug'at ilovasi.
+* ✅ **TaskFlow:** Vazifalar boshqaruvchisi va CRUD ilovasi.
+* 🏫 **School Platform:** Maktab uchun maxsus veb-sayt va boshqaruv qismi.
 
 ---
 
@@ -58,13 +54,6 @@ Men **Shuhrat Madaminov**, Xorazm viloyati, Xonqa tumanida istiqomat qilaman. Ho
   </table>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuhrat995&theme=react&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
-
----
-
-## 🧩 Shaxsiy qiziqishlar | Personal Interests
-
-*   🎧 **Musiqa:** Ish jarayonida **Konsta** taronalari va yumshoq pianino kuylari bilan fokusni saqlayman.
-*   📖 **O'rganish:** Har kuni yangi texnologiyalarni sinab ko'rish va tajriba orttirish asosiy maqsadim.
 
 ---
 
